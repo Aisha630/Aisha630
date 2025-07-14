@@ -3,7 +3,7 @@
 <a href="https://linkedin.com/in/ayesha-shafique-a2b48914b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:ayeshashafique123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-I am an MS CS student at UW Madison, specializing in Cloud Infrastructure, Full-Stack Development and AI/ML. I am passionate about building scalable, impactful software.
+I am a PhD CS student at UW Madison, specializing in Cloud Infrastructure, Full-Stack Development and AI/ML. I am passionate about building scalable, impactful software.
 
 ---
 
